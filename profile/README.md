@@ -1,11 +1,11 @@
-# 🔥 OoptimalSsolution — AR Indoor Navigation Team
+# OoptimalSsolution — AR Indoor Navigation Team
 
-📌 Navigation App (Unity + ARCore + VIO + QR-based Positioning)  
+**Navigation App (Unity + ARCore + VIO + QR-based Positioning)**  
 실내 환경에서 QR 코드 기반 초기 위치 인식과 A* 경로 탐색, AR 화살표 안내를 제공하는 모바일 AR 내비게이션 시스템
 
 ---
 
-### 🚀 Active Projects
+### Active Projects
 | Repository | Description |
 |------------|-------------|
 | 🔗 navigation-app | Unity 기반 AR 내비게이션 앱 |
